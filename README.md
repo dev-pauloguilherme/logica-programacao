@@ -1,2 +1,3 @@
 # logica-programacao
-Exercícios de Lógica de programação e algoritmos.
+Exercícios de lógica de programação feitos no Visualg
+durante meus estudos de algoritmos.
